@@ -56,6 +56,10 @@
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
 
+- enlace github -> https://iesgrancapitan-eed.github.io/exud4mayo2022-JMER15/doc/com/jmer/edd/examen/OptimizacionYDocumentacion/package-summary.html
+
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+
+enlace bitbucket -> https://bitbucket.org/jmer1522/examenunidad4/src/main/
