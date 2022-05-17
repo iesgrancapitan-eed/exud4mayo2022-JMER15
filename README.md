@@ -27,10 +27,10 @@
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
 13. Añade el diálogo de la refactorización con todo debidamente marcado
 
+![imagen](img.png)
 
-
-14. Realiza un commit con el mensaje "refactor: Mascota "
-15. Fusiona la rama "refactoring" en la rama "develop" 
+1.  Realiza un commit con el mensaje "refactor: Mascota "
+2.  Fusiona la rama "refactoring" en la rama "develop" 
 
 ## Documentación
 16. Crea la **rama "documentation"** a partir de la rama "develop". Trabajarás en ella la documentación.
